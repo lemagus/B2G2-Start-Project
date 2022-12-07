@@ -1,10 +1,10 @@
 * {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: white;
+    font-family: cursive;
+    color:chartreuse ;
 }
 
 body {
-    background-color:bisque;
+    background-color:red;
 }
 
 h1 {
@@ -20,8 +20,4 @@ p {
     margin: 2em;
     display: block;
     text-align: center;
-}
-
-footer ul li {
-    list-style: inline;
 }
