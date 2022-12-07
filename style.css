@@ -21,3 +21,7 @@ p {
     display: block;
     text-align: center;
 }
+
+footer ul li {
+    list-style: inline;
+}
