@@ -1,5 +1,5 @@
 * {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color:chartreuse;
 }
 
@@ -10,9 +10,9 @@ body {
 h1, h2 {
     display: block;
     width: 100%;
-    text-align: center;
+    text-align: left;
 
-    color:darksalmon;
+    color:aqua;
     font-size: 6em;
 }
 
