@@ -7,13 +7,17 @@ body {
     background-color: blue;
 }
 
-h1 {
+h1, h2 {
     display: block;
     width: 100%;
     text-align: center;
 
     color:darksalmon;
     font-size: 6em;
+}
+
+h2 {
+    font-size: 3em;
 }
 
 p {
